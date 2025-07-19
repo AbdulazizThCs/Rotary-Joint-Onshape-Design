@@ -28,5 +28,5 @@ It’s commonly used in robotics, automation arms, and mechanical linkages for s
 <hr>  
 
 Developed by **Abdulaziz AL-Thomali**      
-Built for **@smart-methods**
+Built for **Smart Methods**
 
