@@ -26,6 +26,7 @@ It’s commonly used in robotics, automation arms, and mechanical linkages for s
 <img width="1920" height="1080" alt="Rotary-Joint" src="https://github.com/user-attachments/assets/416b63e5-399d-420a-ac45-43ef7ac7a678" />  
 
 <hr>  
-Developed by **Abdulaziz AL-Thomali**    
-Built for **Smart Methods**
+
+Developed by **Abdulaziz AL-Thomali**      
+Built for **@smart-methods**
 
